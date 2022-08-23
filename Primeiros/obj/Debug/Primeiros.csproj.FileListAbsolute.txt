@@ -1,0 +1,8 @@
+D:\.NET\Primeiros\Primeiros\bin\Debug\Primeiros.exe.config
+D:\.NET\Primeiros\Primeiros\bin\Debug\Primeiros.exe
+D:\.NET\Primeiros\Primeiros\bin\Debug\Primeiros.pdb
+D:\.NET\Primeiros\Primeiros\obj\Debug\Primeiros.csproj.AssemblyReference.cache
+D:\.NET\Primeiros\Primeiros\obj\Debug\Primeiros.csproj.SuggestedBindingRedirects.cache
+D:\.NET\Primeiros\Primeiros\obj\Debug\Primeiros.csproj.CoreCompileInputs.cache
+D:\.NET\Primeiros\Primeiros\obj\Debug\Primeiros.exe
+D:\.NET\Primeiros\Primeiros\obj\Debug\Primeiros.pdb
