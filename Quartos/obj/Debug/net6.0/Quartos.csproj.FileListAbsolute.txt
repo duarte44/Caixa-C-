@@ -1,0 +1,15 @@
+D:\.NET\Quartos\Quartos\bin\Debug\net6.0\Quartos.exe
+D:\.NET\Quartos\Quartos\bin\Debug\net6.0\Quartos.deps.json
+D:\.NET\Quartos\Quartos\bin\Debug\net6.0\Quartos.runtimeconfig.json
+D:\.NET\Quartos\Quartos\bin\Debug\net6.0\Quartos.dll
+D:\.NET\Quartos\Quartos\bin\Debug\net6.0\Quartos.pdb
+D:\.NET\Quartos\Quartos\obj\Debug\net6.0\Quartos.csproj.AssemblyReference.cache
+D:\.NET\Quartos\Quartos\obj\Debug\net6.0\Quartos.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\Quartos\Quartos\obj\Debug\net6.0\Quartos.AssemblyInfoInputs.cache
+D:\.NET\Quartos\Quartos\obj\Debug\net6.0\Quartos.AssemblyInfo.cs
+D:\.NET\Quartos\Quartos\obj\Debug\net6.0\Quartos.csproj.CoreCompileInputs.cache
+D:\.NET\Quartos\Quartos\obj\Debug\net6.0\Quartos.dll
+D:\.NET\Quartos\Quartos\obj\Debug\net6.0\refint\Quartos.dll
+D:\.NET\Quartos\Quartos\obj\Debug\net6.0\Quartos.pdb
+D:\.NET\Quartos\Quartos\obj\Debug\net6.0\Quartos.genruntimeconfig.cache
+D:\.NET\Quartos\Quartos\obj\Debug\net6.0\ref\Quartos.dll
