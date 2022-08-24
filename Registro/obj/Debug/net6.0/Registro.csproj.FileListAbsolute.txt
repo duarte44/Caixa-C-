@@ -1,0 +1,15 @@
+D:\.NET\Registro\Registro\bin\Debug\net6.0\Registro.exe
+D:\.NET\Registro\Registro\bin\Debug\net6.0\Registro.deps.json
+D:\.NET\Registro\Registro\bin\Debug\net6.0\Registro.runtimeconfig.json
+D:\.NET\Registro\Registro\bin\Debug\net6.0\Registro.dll
+D:\.NET\Registro\Registro\bin\Debug\net6.0\Registro.pdb
+D:\.NET\Registro\Registro\obj\Debug\net6.0\Registro.csproj.AssemblyReference.cache
+D:\.NET\Registro\Registro\obj\Debug\net6.0\Registro.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\Registro\Registro\obj\Debug\net6.0\Registro.AssemblyInfoInputs.cache
+D:\.NET\Registro\Registro\obj\Debug\net6.0\Registro.AssemblyInfo.cs
+D:\.NET\Registro\Registro\obj\Debug\net6.0\Registro.csproj.CoreCompileInputs.cache
+D:\.NET\Registro\Registro\obj\Debug\net6.0\Registro.dll
+D:\.NET\Registro\Registro\obj\Debug\net6.0\refint\Registro.dll
+D:\.NET\Registro\Registro\obj\Debug\net6.0\Registro.pdb
+D:\.NET\Registro\Registro\obj\Debug\net6.0\Registro.genruntimeconfig.cache
+D:\.NET\Registro\Registro\obj\Debug\net6.0\ref\Registro.dll
