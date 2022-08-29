@@ -1,0 +1,15 @@
+D:\.NET\Contribuintes\Contribuintes\bin\Debug\net6.0\Contribuintes.exe
+D:\.NET\Contribuintes\Contribuintes\bin\Debug\net6.0\Contribuintes.deps.json
+D:\.NET\Contribuintes\Contribuintes\bin\Debug\net6.0\Contribuintes.runtimeconfig.json
+D:\.NET\Contribuintes\Contribuintes\bin\Debug\net6.0\Contribuintes.dll
+D:\.NET\Contribuintes\Contribuintes\bin\Debug\net6.0\Contribuintes.pdb
+D:\.NET\Contribuintes\Contribuintes\obj\Debug\net6.0\Contribuintes.csproj.AssemblyReference.cache
+D:\.NET\Contribuintes\Contribuintes\obj\Debug\net6.0\Contribuintes.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\Contribuintes\Contribuintes\obj\Debug\net6.0\Contribuintes.AssemblyInfoInputs.cache
+D:\.NET\Contribuintes\Contribuintes\obj\Debug\net6.0\Contribuintes.AssemblyInfo.cs
+D:\.NET\Contribuintes\Contribuintes\obj\Debug\net6.0\Contribuintes.csproj.CoreCompileInputs.cache
+D:\.NET\Contribuintes\Contribuintes\obj\Debug\net6.0\Contribuintes.dll
+D:\.NET\Contribuintes\Contribuintes\obj\Debug\net6.0\refint\Contribuintes.dll
+D:\.NET\Contribuintes\Contribuintes\obj\Debug\net6.0\Contribuintes.pdb
+D:\.NET\Contribuintes\Contribuintes\obj\Debug\net6.0\Contribuintes.genruntimeconfig.cache
+D:\.NET\Contribuintes\Contribuintes\obj\Debug\net6.0\ref\Contribuintes.dll
