@@ -1,0 +1,15 @@
+D:\.NET\Conta\Conta\bin\Debug\net6.0\Conta.exe
+D:\.NET\Conta\Conta\bin\Debug\net6.0\Conta.deps.json
+D:\.NET\Conta\Conta\bin\Debug\net6.0\Conta.runtimeconfig.json
+D:\.NET\Conta\Conta\bin\Debug\net6.0\Conta.dll
+D:\.NET\Conta\Conta\bin\Debug\net6.0\Conta.pdb
+D:\.NET\Conta\Conta\obj\Debug\net6.0\Conta.csproj.AssemblyReference.cache
+D:\.NET\Conta\Conta\obj\Debug\net6.0\Conta.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\Conta\Conta\obj\Debug\net6.0\Conta.AssemblyInfoInputs.cache
+D:\.NET\Conta\Conta\obj\Debug\net6.0\Conta.AssemblyInfo.cs
+D:\.NET\Conta\Conta\obj\Debug\net6.0\Conta.csproj.CoreCompileInputs.cache
+D:\.NET\Conta\Conta\obj\Debug\net6.0\Conta.dll
+D:\.NET\Conta\Conta\obj\Debug\net6.0\refint\Conta.dll
+D:\.NET\Conta\Conta\obj\Debug\net6.0\Conta.pdb
+D:\.NET\Conta\Conta\obj\Debug\net6.0\Conta.genruntimeconfig.cache
+D:\.NET\Conta\Conta\obj\Debug\net6.0\ref\Conta.dll
